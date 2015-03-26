@@ -5,6 +5,7 @@ filegroup(
     srcs = [
         "//examples/cpp:srcs",
         "//examples/gen:srcs",
+        "//examples/go:srcs",
         "//examples/java-native:srcs",
         "//examples/java-skylark:srcs",
         "//examples/objc:srcs",
